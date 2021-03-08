@@ -1,1 +1,1 @@
-# GC2
+# Region Hovedstaden GC2
